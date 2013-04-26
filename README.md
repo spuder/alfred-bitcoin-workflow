@@ -19,5 +19,7 @@ You will need to change the pool from "mining.bitcoin.cz" (slush) to your bitcoi
 
 This workflow is developed by Spencer O. 
 [spuder.wordpress.com](https://spuder.wordpress.com)
+
 [spudstud@github](https://github.com/spudstud)
+
 [@spencer450](https://twitter.com/spencer450)
