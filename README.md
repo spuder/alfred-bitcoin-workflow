@@ -2,6 +2,7 @@
 A configurable workflow for Alfred v2 which opens your bitcoin wallet and relevant bitcoin websites
 
 ![image](./alfred-bitcoin-shortcut-screenshot.png)
+![image](./alfred-bitcoin-shortcut-screenshot2.png)
 ![image](./alfred-bitcoin-workflow-screenshot.png)
 
 
