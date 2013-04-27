@@ -8,7 +8,7 @@ A configurable workflow for Alfred v2 which opens your bitcoin wallet and releva
 
 ## Installation
 
-You can isntall this workflow by downloading the [Bitcoin.alfredworkflow](https://github.com/spudstud/alfred-bitcoin-workflow/blob/master/Bitcoin%20rate.alfredworkflow?raw=true)
+You can install this workflow by downloading the [Bitcoin.alfredworkflow](https://github.com/spudstud/alfred-bitcoin-workflow/raw/master/Bitcoin.alfredworkflow)
 dragging it onto the Alfred Workflow screen.
 
 ## Configuration
